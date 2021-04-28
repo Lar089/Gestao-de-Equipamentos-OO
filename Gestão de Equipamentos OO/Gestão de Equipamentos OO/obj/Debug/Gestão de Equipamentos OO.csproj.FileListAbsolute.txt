@@ -1,0 +1,7 @@
+C:\Users\Cliente\source\repos\Gestão de Equipamentos OO\Gestão de Equipamentos OO\obj\Debug\Gestão de Equipamentos OO.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\Gestão de Equipamentos OO\Gestão de Equipamentos OO\obj\Debug\Gestão de Equipamentos OO.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Gestão de Equipamentos OO\Gestão de Equipamentos OO\bin\Debug\Gestão de Equipamentos OO.exe.config
+C:\Users\Cliente\source\repos\Gestão de Equipamentos OO\Gestão de Equipamentos OO\bin\Debug\Gestão de Equipamentos OO.exe
+C:\Users\Cliente\source\repos\Gestão de Equipamentos OO\Gestão de Equipamentos OO\bin\Debug\Gestão de Equipamentos OO.pdb
+C:\Users\Cliente\source\repos\Gestão de Equipamentos OO\Gestão de Equipamentos OO\obj\Debug\Gestão de Equipamentos OO.exe
+C:\Users\Cliente\source\repos\Gestão de Equipamentos OO\Gestão de Equipamentos OO\obj\Debug\Gestão de Equipamentos OO.pdb
